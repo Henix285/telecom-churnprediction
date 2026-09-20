@@ -1,0 +1,5 @@
+risk_level,customers,inactive_customers,inactivity_rate_percent,avg_predicted_probability
+Low,71675,78,0.108825,0.052481
+Medium,14492,250,1.72509,0.323959
+High,8160,965,11.82598,0.646569
+Very High,5672,2702,47.637518,0.891732

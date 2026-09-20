@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Secrets
+.env
+.env.*
+
+# Raw datasets
+data/raw/
+*.xlsx
+*.xls
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+
+# Google Colab / temporary
+/content/
+/tmp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
